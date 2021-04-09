@@ -1,0 +1,321 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "till user lands on home page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 276708800,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user is on the amazon site",
+            "match": {
+              "location": "BackgroundtestStepDefinition.user_is_on_the_amazon_site()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 256499,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user enters username and password",
+            "match": {
+              "location": "BackgroundtestStepDefinition.user_enters_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 113500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user clicks on login",
+            "match": {
+              "location": "BackgroundtestStepDefinition.user_clicks_on_login()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 133301,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user lands on the home page",
+            "match": {
+              "location": "BackgroundtestStepDefinition.user_lands_on_the_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "name": "view menu1",
+        "description": "",
+        "id": "test-how-background-works;view-menu1",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3091101,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user clicks on menu1",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 19
+                }
+              ],
+              "location": "BackgroundtestStepDefinition.user_clicks_on_menu(int)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 328599,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "menu1 is displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 4
+                }
+              ],
+              "location": "BackgroundtestStepDefinition.menu_is_displayed(int)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 2,
+        "name": "till user lands on home page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 80900,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user is on the amazon site",
+            "match": {
+              "location": "BackgroundtestStepDefinition.user_is_on_the_amazon_site()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 82200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user enters username and password",
+            "match": {
+              "location": "BackgroundtestStepDefinition.user_enters_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 170100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user clicks on login",
+            "match": {
+              "location": "BackgroundtestStepDefinition.user_clicks_on_login()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 70000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user lands on the home page",
+            "match": {
+              "location": "BackgroundtestStepDefinition.user_lands_on_the_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "view menu2",
+        "description": "",
+        "id": "test-how-background-works;view-menu2",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 203500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user clicks on menu2",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 19
+                }
+              ],
+              "location": "BackgroundtestStepDefinition.user_clicks_on_menu(int)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1210400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "menu2 is displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 4
+                }
+              ],
+              "location": "BackgroundtestStepDefinition.menu_is_displayed(int)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 2,
+        "name": "till user lands on home page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 96800,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user is on the amazon site",
+            "match": {
+              "location": "BackgroundtestStepDefinition.user_is_on_the_amazon_site()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 73001,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user enters username and password",
+            "match": {
+              "location": "BackgroundtestStepDefinition.user_enters_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 217000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user clicks on login",
+            "match": {
+              "location": "BackgroundtestStepDefinition.user_clicks_on_login()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 220599,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user lands on the home page",
+            "match": {
+              "location": "BackgroundtestStepDefinition.user_lands_on_the_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 16,
+        "name": "view menu3",
+        "description": "",
+        "id": "test-how-background-works;view-menu3",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 226100,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user clicks on menu3",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3",
+                  "offset": 19
+                }
+              ],
+              "location": "BackgroundtestStepDefinition.user_clicks_on_menu(int)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 272701,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "menu3 is displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3",
+                  "offset": 4
+                }
+              ],
+              "location": "BackgroundtestStepDefinition.menu_is_displayed(int)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "test how background works",
+    "description": "",
+    "id": "test-how-background-works",
+    "keyword": "Feature",
+    "uri": "F:/Eclipse-selenium/workspace/DemoForBDD-master/DemoForBDD-master/src/main/resources/feature/testbackground.feature"
+  }
+]

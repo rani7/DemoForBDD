@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.283555">
+    <testcase classname="test how background works" name="view menu1" time="0.280632">
+        <system-out><![CDATA[Given user is on the amazon site............................................passed
+When user enters username and password......................................passed
+And user clicks on login....................................................passed
+Then user lands on the home page............................................passed
+When user clicks on menu1...................................................passed
+Then menu1 is displayed.....................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="test how background works" name="view menu2" time="0.001817">
+        <system-out><![CDATA[Given user is on the amazon site............................................passed
+When user enters username and password......................................passed
+And user clicks on login....................................................passed
+Then user lands on the home page............................................passed
+When user clicks on menu2...................................................passed
+Then menu2 is displayed.....................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="test how background works" name="view menu3" time="0.001106">
+        <system-out><![CDATA[Given user is on the amazon site............................................passed
+When user enters username and password......................................passed
+And user clicks on login....................................................passed
+Then user lands on the home page............................................passed
+When user clicks on menu3...................................................passed
+Then menu3 is displayed.....................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
